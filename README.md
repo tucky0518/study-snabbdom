@@ -40,3 +40,7 @@ while(`新前<=新后&&旧前<=旧后`){......}
 
 当 ③ 新后与旧前命中的时候,此时要移动节点,移动新前指向的这个节点到老节点的`旧后的后面`
 当 ④ 新前与旧后命中的时候,此时要移动节点,移动新前指向的这个节点到老节点的`旧前的前面`
+
+![Image text](https://github.com/tucky18/study-snabbdom/blob/main/img/vue%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B9%8B%E8%99%9A%E6%8B%9Fdom%E5%92%8Cdiff%E7%AE%97%E6%B3%95.jpg)
+
+
